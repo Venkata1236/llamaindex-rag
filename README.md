@@ -1,4 +1,4 @@
-# LlamaIndex RAG Demo
+# LlamaIndex RAG 
 
 A simple Retrieval-Augmented Generation (RAG) project built using LlamaIndex and OpenAI.
 
